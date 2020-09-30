@@ -1,4 +1,4 @@
-This repository contains tutorials of [RunAbove Knowledge
+**Info :This repository contains tutorials of [RunAbove Knowledge
 base](https://community.runabove.com/kb).
 
 # How to write a how-to guide?
@@ -9,7 +9,7 @@ guide. Please refer to the metadata in existing guides so that you add adequate
 metadata at the beginning of your guide. Feel free to create a folder for your
 images in [/images](images).
 
-Please note that we may not accept your how-to guide if it doesn’t fit our
+**Please note that we may not accept your how-to guide if it doesn’t fit our
 review criteria. Here is a list of some of the main points we’ll take into
 account:
 
@@ -54,7 +54,7 @@ With markdown syntax.
 
 ### With Docker (recommended)
 
-The easiest way to test how your guide renders on RunAbove website is to build
+The easiest way to test how your guide renders on Run above website is to build
 and run the Docker container.
 
 ```bash
@@ -68,7 +68,7 @@ looks.
 ### Installing Jekyll
 
 To deploy tutorials on runabove, we use a ruby tool called
-[Jekyll](http://jekyllrb.com/). You can find more informations about Jekyll
+[Jekyll](http://jekyllrb.com/). You can find more information about Jekyll
 installation inside the [official
 documentation](http://jekyllrb.com/docs/installation/). Get it up and running:
 
@@ -89,7 +89,7 @@ website and see your guide:
 bundle exec jekyll build
 ```
 
-You website is now inside `_site` directory.
+Your website is now inside `_site` directory.
 
 You can also run this command to have jekyll serve your static pages :
 
